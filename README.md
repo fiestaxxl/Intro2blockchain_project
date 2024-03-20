@@ -11,7 +11,7 @@ Below is an example of how to start interacting with the smart contract locally.
    ```sh
    git clone https://github.com/fiestaxxl/Intro2blockchain_project.git
    ```
-2. Install NPM packages (remember to move to the directory `staking-rewards` first)
+2. Install NPM packages
    ```sh
    cd Intro2blockchain_project
    npm install

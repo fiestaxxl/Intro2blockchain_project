@@ -26,6 +26,5 @@ Below is an example of how to start interacting with the smart contract locally.
 
 You can interact with the smart contract on the local network now.
 
-- `npm run compile` to compile the solidity code
-- `npm run deploy` to deploy the contract on the hardhat network
-- `npm run test` to run the unit testing of the contract
+- `npx hardhat compile` to compile the solidity code
+- `npx hardhat test`  to run the unit testing of the contract
